@@ -27,7 +27,7 @@ def healthz():
 @app.route("/v1/metadata", methods=["GET"])
 def metadata():
     return jsonify({
-        "team_name": "Antigravity",
+        "team_name": "Sanchit Agrawal",
         "model": "gemini-1.5-pro / openai-gpt-4o"
     })
 

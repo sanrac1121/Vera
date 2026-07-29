@@ -1,6 +1,6 @@
 # magicpin AI Challenge — Merchant AI Assistant ("Vera")
 
-> **Submission by**: Team Antigravity  
+> **Submission by**: Sanchit Agrawal  
 > **Model Architecture**: Multi-Context LLM Prompt Composition Engine (Google Gemini 2.5 / 2.0 Flash)  
 > **Target Audience**: ~100,000 Local Indian Merchants across 5 Verticals on WhatsApp  
 > **Evaluation Score**: **47 / 50 (94% — EXCELLENT)**  
